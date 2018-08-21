@@ -1,0 +1,17 @@
+.d-flex {
+    display: flex;
+}
+.flex-column {
+    flex-direction: column;
+}
+.border {
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+}
+.m-3 {
+    margin: 10px;
+}
+.p-3 {
+    padding: 10px;
+}
