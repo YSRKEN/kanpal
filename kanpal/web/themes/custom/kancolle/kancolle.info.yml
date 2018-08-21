@@ -1,0 +1,7 @@
+name: Kancolle Theme
+type: theme
+description: 艦これの情報サイト用のテーマです。
+core: 8.x
+base theme: bartik
+libraries:
+  - kacolle/global-styling
